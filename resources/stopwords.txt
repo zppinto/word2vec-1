@@ -75,6 +75,7 @@ differ
 different
 differently
 do
+don
 does
 done
 down
@@ -182,6 +183,7 @@ know
 known
 knows
 l
+ll
 large
 largely
 last
@@ -290,6 +292,7 @@ q
 quite
 r
 rather
+re
 really
 right
 right
@@ -370,6 +373,7 @@ turned
 turning
 turns
 two
+th
 u
 under
 until
