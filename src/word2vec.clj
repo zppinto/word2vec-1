@@ -2,7 +2,7 @@
   (:require [clojure-word2vec.core :refer [create-input-format get-matches]]  			                      
             [clojure.java.io :as io]))
 
-(def data-file "textualData-.txt")
+(def data-file "textualData.txt")
 
 ;; Format input data
 (def data (create-input-format data-file))
